@@ -1,0 +1,50 @@
+body{
+ background-color: cornflowerblue;
+  
+  align-items: center;
+   background-color: black;
+} 
+.comp{
+  background-color: rgb(0, 0, 0);
+  justify-content: center;
+  width: 50%;
+  margin-left: 26%;
+  margin-top: 5%;
+  text-align: center;
+} 
+.form{
+  text-align: center;
+  justify-content: center;
+} 
+
+ .form-card .card-body {
+  padding: 0 1.56rem 0 1.56rem !important;
+}
+.card-body 
+*, ::after, ::before {
+  box-sizing: border-box;
+} 
+#mechanic-form 
+.glass-effect {
+  color: var(--bs-light) !important;
+  border: 1px solid var(--bs-light) !important;
+  backdrop-filter: blur(50px) !important;
+  -webkit-backdrop-filter: blur(50px) !important;
+}
+.form-card {
+  width: fit-content !important;
+  background: initial !important;
+  border-radius: 1rem !important;
+  margin-top: 3rem !important;
+ } 
+ .card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #940909;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+} 
